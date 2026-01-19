@@ -1,0 +1,11 @@
+:root {
+  --blue-dark: #0D47A1;
+  --blue-main: #1565C0;
+  --blue-light: #E3F2FD;
+  --blue-cta: #1976D2;
+
+  --text-dark: #0A1A2F;
+  --text-light: #FFFFFF;
+
+  --radius: 8px;
+}
